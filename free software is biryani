@@ -1,0 +1,91 @@
+<h2><b>Libre means Freedom, Gratis means Free.</b></h2>
+
+<br/>
+The definitions of freedom are several. Some are generic, some are contextual and some others are merely opinions. I'm going to go with one of the definitions I found on Urban Dictionary.
+<br/>
+<br/>
+<blockquote>Being able to make choices. Performing an action of your own choosing. </blockquote> 
+
+<br/>
+Free/Libre is not the same as Free/Gratis. This is quite confusing.
+
+<br/>
+In the world of software, however, freedom is a more strictly defined term. Here's quoting Urban Dictionary againâ€”
+<br/>
+<br/>
+<blockquote> In order for software to be free, users must be able to run, copy, distribute (with a fee or without a fee), study, change and improve the software. </blockquote>
+
+<br/>
+For software to be free”as in free speech, not free beer ”it must provide its user with the following <i>four freedoms:</i>
+
+<br/><br/>
+<ol start="0">
+<li><b>Freedom to run the program as you wish, for any purpose.</b> <i> Feel free to use a spreadsheet editor to make pixel art!</i></li>
+
+<br/>
+<li><b>Freedom to study how the program works, and change it so it does your computing as you wish.</b> <i>You don't like that the VLC media player didn't wish your Mumma on her birthday? Make it!</i> </li>
+
+<br/>
+<li><b>Freedom to redistribute copies. </b><i>This might have come as a total surprise. You are allowed to hand out a copy of a software-program like it's your own. Help thy neighbour!</i> </li>
+
+<br/>
+<li><b>Freedom to distribute copies of your modified versions to others. </b><i>Not only can you hand out software like it's your own, people can also make their own changes to it, make it better and distribute copies of that. Help thy neighbour help her neighbour.</i></li>
+</ol>
+<br/>
+To better understand these things, consider a software program to be a recipe for your favourite dish. For me, that would beâ€”as of this writingâ€”Chicken Biryani. Ask me again next year!
+<br/>
+<br/>
+Now,
+<br/>
+<ol start="0">
+<em>
+
+<li>Freedom to eat Chicken Biryani any way I want to, with anything I want to, with anyone I want to, at any time I want to, at any place I want to, for any purpose I want to, which isâ€”as of this writingâ€”gain some mass and learn to handle them spices. Ask me again next year!</i></li>
+
+<br/>
+<li>Freedom to  learn how Chicken Biryani is made and to tweak it to my own liking. I would turn down the spice a tad bit, at least initially.</li>
+
+<br/>
+<li>Freedom to invite people over and feed them my specially customised Biryani or send a bowl of it to my neighbor or a friend. They are not required to buy product keys. Nuh-uh! </li>
+
+<br/>
+<li>Freedom to let them know the recipe and not give them BS if they tweak it to their liking and invite other friends over. It is not betrayal. <i>It might be if I'm not invited to this party!</i></li>
+</ol>
+</em>
+
+So, treat free software as you would your Biryani. Don't let anybody tell you otherwise.
+<br/>
+
+<br/>
+<h2><b>History time!</b></h2>
+<br/>   
+Back in the 80's, at <i>MIT</i>, a student had managed to tweak the software running inside a Printer machine so that it would send out an e-mail to the concerned person(s) when their print-jobs had completed. Neat. It also sent out a message to all logged-in users if the printer ever got jammed, so any of them who had the time could come to the rescue. And the students all lived happily ever aftâ€”BAMâ€”new Laser printer!
+<br/>
+This time, however, the student was not allowed to look into the program that ran the printer. He was denied access. He did not take kindly to this. The printer was on an altogether different floor of the building, after all! That's when it hit himâ€”people should have the freedom to tweak software. 
+<br/>
+He is Richard M. Stallman. The <i>big-fluffy-bearded man</i>â€”fondly known as <b>RMS</b>â€”would go on to start the Free Software Foundation and conceptualise what we now know as Free Software.
+<br/><br/>
+<a href="https://en.wikipedia.org/wiki/Richard_Stallman"><img src="http://www.ohmygeek.net/wp-content/uploads/2014/08/Richard-Stallman.jpg" alt="Richard M Stallman"/></a>
+<span style="color:grey; font-family: alegreya-sans;">Richard Matthew Stallman</span>
+
+<br/><br/>
+<h2>The GNU Project</h2>
+We saw to what end the denial of access to a printer's software annoyed <i>RMS</i>. Take a moment to imagine what his reaction to locking down Operating Systems could have been.
+<br/>
+He began cooking his own Operating System! This was the birth of the GNU. It's name is what's called a <a href="https://en.wikipedia.org/wiki/Recursive_acronym">Recursive Acronym</a>.
+<br/>
+It basically goes like this:
+<br/>
+<pre>
+<b>GNU</b><br/><b>GNU's Not Unix</b><br/><i><b>G</b>NU's Not Unix</i><b> Not Unix</b>
+<br/>The G in GNU stands for GNU, whose G again stands for GNU and so on.</pre>
+<br/>
+As you might have guessed, the closed system he was annoyed with was UNIX. So, GNU was meant to replace it.
+<br/>
+<img src="http://www.gnu.org/graphics/empowered-by-gnu.svg" alt="[logo] GNU Head"/>
+<span style="color:grey; font-family: alegreya-sans;">The GNU Head</span>
+
+<br/>
+
+<br/><br/>
+[Still writing, pliss come back another time!]
